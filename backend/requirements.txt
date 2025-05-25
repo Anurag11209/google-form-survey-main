@@ -1,0 +1,9 @@
+fastapi[all]
+uvicorn[standard]
+sqlalchemy
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+python-dotenv # For managing environment variables like recipient email if needed
+pytest
+httpx # For testing FastAPI
